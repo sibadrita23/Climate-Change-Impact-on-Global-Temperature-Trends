@@ -1,0 +1,8 @@
+Packages Used:
+ggplot2: For creating visualizations.
+dplyr: For data manipulation.
+plotly: For interactive visualizations.
+forecast: For time-series forecasting.
+readr: For data loading.
+lmtest: For statistical analysis.
+rmarkdown: For report generation.

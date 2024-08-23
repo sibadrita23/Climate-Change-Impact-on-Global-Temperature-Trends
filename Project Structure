@@ -1,0 +1,19 @@
+Climate_Change_Impact_Analysis/
+│
+├── Data/
+│   └── global_temperature_data.csv
+│
+├── R_Scripts/
+│   ├── data_loading.R
+│   ├── data_cleaning.R
+│   ├── exploratory_analysis.R
+│   ├── data_visualization.R
+│   ├── statistical_analysis.R
+│   ├── time_series_forecasting.R
+│   ├── report_generation.R
+│   └── helper_functions.R
+│
+├── Reports/
+│   └── climate_analysis_report.pdf
+│
+└── README.md
